@@ -22,5 +22,5 @@ Utilizamos a linguagem python para a resolução das questões.
 
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [3112. Minimum Time to Visit Disappearing Nodes](Grafos2/medias/Q1/q1.md) | Médio | [Vídeo]() |
-| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Grafos2/dificeis/Q1/q1.md) | Difícil | [Vídeo]() |
+| [3112. Minimum Time to Visit Disappearing Nodes](Grafos2/medias/Q1/q1.md) | Médio | [Vídeo](https://unbbr-my.sharepoint.com/:v:/g/personal/222026715_aluno_unb_br/EWfA2N-0MpRLmlD4INDG17ABK7puem6-lIc53Bcj-o4YkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HQqzaf) |
+| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Grafos2/dificeis/Q1/q1.md) | Difícil | [Vídeo](https://unbbr-my.sharepoint.com/:v:/g/personal/222026715_aluno_unb_br/Ea9-guDU719KuXG9HMDLXgMBkSnPyCUDWekHoCX5eYl22w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1W3aM3) |
