@@ -23,3 +23,5 @@ Utilizamos a linguagem python para a resolução das questões.
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [3112. Minimum Time to Visit Disappearing Nodes](Grafos2/medias/Q1/q1.md) | Médio | [Vídeo]() |
+| - | - | - |
+| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](Grafos2/dificeis/Q1/q1.md) | Difícil | [Vídeo]() |
